@@ -1,0 +1,104 @@
+[
+    {
+        "nome": "Scott Summers",
+        "codinome": "Cyclops",
+        "poder": "Cyclops possui a habilidade mutante de projetar um poderoso feixe de força de concussão de cor rubi de seus olhos.",
+        "imgCard": "../img/Card-cyclops.jpg",
+        "img": "../img/Cyclops.png"
+    },
+    {
+        "nome": "Jean Grey",
+        "codinome": "Fenix Negra",
+        "poder": "Jean é capaz de ler pensamentos, projetar e transmitir seus próprios pensamentos, bem como afetar as mentes dos seres humanos.",
+        "imgCard":"../img/card-jean-grey.jpg",
+        "img": "../img/Jean-grey.png"
+
+    },
+    {
+        "nome": "Hank McCoy",
+        "codinome": "Fera",
+        "poder": "O Fera pode correr e se mover a velocidades ligeiramente além dos limites físicos naturais do melhor atleta humano.",
+        "imgCard": "../img/card-fera.png",
+        "img": "../img/Fera.png"
+    },
+    {
+        "nome": "Emma Grace Frost",
+        "codinome": "Emma Frost",
+        "poder": "Habilidade de manipular a memória de seres vivos, chegando ao ponto de fazê-las esquecer tudo ou parte de suas memórias.",
+        "imgCard": "../img/Card-Emma.jpg",
+        "img": "../img/Emma-frost.png"
+    },
+    {
+        "nome": "Erik Lensherr",
+        "codinome": "Magneto",
+        "poder": " Magneto tem controlo total sobre todas as formas de magnetismo e utiliza esse controle para manipular metais ferrosos.",
+        "imgCard": "../img/card-magneto.jpg",
+        "img": "../img/Magneto.png"
+    },
+    {
+        "nome": "Raven Darkholme",
+        "codinome": "Mística",
+        "poder": "Possui o poder de transmutação, a capacidade de mudar psiquicamente a formação de suas células biológicas para mudar sua aparência.",
+        "imgCard": "../img/card-mystica.png",
+        "img": "../img/Mystica.png"
+    },
+    {
+        "nome": "Kurt Wagner",
+        "codinome": "Noturno",
+        "poder": "Teletransporte, super agilidade, aderência física, visão noturna, habilidades acrobáticas e a habilidade de fundir-se com as sombras.",
+        "imgCard": "../img/card-noturno.jpg",
+        "img": "../img/Noturno.png"
+    },
+    {
+        "nome": "Ororo Munroe",
+        "codinome": "Tempestade",
+        "poder": "Capacidade de controlar as forças naturais que incluem tempestades cósmicas, vento solar, correntes oceânicas, e do campo eletromagnético.",
+        "imgCard": "../img/card-tempestade.jpg",
+        "img": "../img/Tempestade.png"
+    },
+    {
+        "nome": "Anna Marie",
+        "codinome": "Vampira",
+        "poder": "Vampira pode absorver os poderes, energias, memórias, conhecimento, talento, personalidade e habilidades físicas.",
+        "imgCard": "../img/card-vampira.jpg",
+        "img": "../img/Vampira.png"
+    },
+    {
+        "nome": "Logan",
+        "codinome": "Wolverine",
+        "poder": "Ossos e garras revestidos de adamantium, fator de cura.",
+        "imgCard": "../img/card-wolverine.jpg",
+        "img": "../img/Wolverine.png"
+    },
+    {
+        "nome": "Victor Creed",
+        "codinome": "Dentes de Sabre",
+        "poder": "Capaz de levantar em 20 a 40 toneladas, no entanto, a extensão de sua força continuamente aumentada nunca foi revelada.",
+        "imgCard": "../img/Dentes-card.jpg",
+        "img": "../img/Dentes-sabre.png"
+    },
+
+      {
+        "nome": "Wanda Maximoff",
+        "codinome": "Feiticeira Escarlate",
+        "poder": "Ela é capaz de desviar objetos e ataques, gerar combustão instantânea ou enferrujar metais, além de outros eventos improváveis.",
+        "imgCard": "../img/Feiticeira-card.jpg",
+        "img": "../img/Feiticeira.png"
+    },
+    {
+        "nome": "Jubilation Lee",
+        "codinome": "Jubileu",
+        "poder": "Com uma personalidade otimista e a capacidade de transformar qualquer campo de batalha em uma exibição colorida com seus fogos de artifício.",
+        "imgCard": "../img/Jubileu-card.jpg",
+        "img":"../img/Jubileu.png"
+    },
+    {
+        "nome": "Remy LeBeau",
+        "codinome": "Gambit",
+        "poder": "Ele é extremamente hábil em arremessar objetos pequenos, tais como cartas, boleadeira, facas e bolas com grande precisão.",
+        "imgCard": "../img/Gambit-card.jpg",
+        "img":"../img/Gambit.png"
+    }
+   
+]
+
